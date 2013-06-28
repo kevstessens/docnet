@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5">
+
+    <display-name>Doc.Net</display-name>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+    <servlet>
+        <description>RegisterServlet</description>
+        <display-name>RegisterServlet</display-name>
+        <servlet-name>RegisterServlet</servlet-name>
+        <servlet-class>servlets.RegisterServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RegisterServlet</servlet-name>
+        <url-pattern>/RegisterServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>LogInServlet</description>
+        <display-name>LogInServlet</display-name>
+        <servlet-name>LogInServlet</servlet-name>
+        <servlet-class>servlets.LogInServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LogInServlet</servlet-name>
+        <url-pattern>/LogInServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>AddDoctorServlet</description>
+        <display-name>AddDoctorServlet</display-name>
+        <servlet-name>AddDoctorServlet</servlet-name>
+        <servlet-class>servlets.AddDoctorServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddDoctorServlet</servlet-name>
+        <url-pattern>/AddDoctorServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>ModificarServlet</description>
+        <display-name>ModificarServlet</display-name>
+        <servlet-name>ModificarServlet</servlet-name>
+        <servlet-class>servlets.ModificarServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ModificarServlet</servlet-name>
+        <url-pattern>/ModificarServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>EliminarServlet</description>
+        <display-name>EliminarServlet</display-name>
+        <servlet-name>EliminarServlet</servlet-name>
+        <servlet-class>servlets.EliminarServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EliminarServlet</servlet-name>
+        <url-pattern>/EliminarServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>BuscarTurnosServlet</description>
+        <display-name>BuscarTurnosServlet</display-name>
+        <servlet-name>BuscarTurnosServlet</servlet-name>
+        <servlet-class>servlets.BuscarTurnosServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BuscarTurnosServlet</servlet-name>
+        <url-pattern>/BuscarTurnosServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>CalendarServlet</description>
+        <display-name>CalendarServlet</display-name>
+        <servlet-name>CalendarServlet</servlet-name>
+        <servlet-class>servlets.CalendarServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CalendarServlet</servlet-name>
+        <url-pattern>/CalendarServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>SacarTurnoServlet</description>
+        <display-name>SacarTurnoServlet</display-name>
+        <servlet-name>SacarTurnoServlet</servlet-name>
+        <servlet-class>servlets.SacarTurnoServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SacarTurnoServlet</servlet-name>
+        <url-pattern>/SacarTurnoServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>CancelarTurnosServlet</description>
+        <display-name>CancelarTurnosServlet</display-name>
+        <servlet-name>CancelarTurnosServlet</servlet-name>
+        <servlet-class>servlets.CancelarTurnosServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CancelarTurnosServlet</servlet-name>
+        <url-pattern>/CancelarTurnosServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <description>CerrarTurnoServlet</description>
+        <display-name>CerrarTurnoServlet</display-name>
+        <servlet-name>CerrarTurnoServlet</servlet-name>
+        <servlet-class>servlets.CerrarTurnoServlet</servlet-class>
+        <load-on-startup>0</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CerrarTurnoServlet</servlet-name>
+        <url-pattern>/CerrarTurnoServlet</url-pattern>
+    </servlet-mapping>
+
+    <filter>
+        <filter-name>Security Filter</filter-name>
+        <filter-class>org.securityfilter.filter.SecurityFilter</filter-class>
+        <init-param>
+            <param-name>config</param-name>
+            <param-value>/WEB-INF/securityfilter-config.xml</param-value>
+        </init-param>
+        <init-param>
+            <param-name>validate</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>Security Filter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <welcome-file-list>
+        <welcome-file>ingresa.jsp</welcome-file>
+    </welcome-file-list>
+
+</web-app>

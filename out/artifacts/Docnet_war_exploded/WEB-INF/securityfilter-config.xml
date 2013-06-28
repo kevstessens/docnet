@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE securityfilter-config PUBLIC
+        "-//SecurityFilter.org//DTD Security Filter Configuration 1.1//EN"
+        "http://www.securityfilter.org/dtd/securityfilter-config_1_1.dtd">
+
+<securityfilter-config>
+
+    <login-config>
+        <auth-method>FORM</auth-method>
+        <form-login-config>
+            <form-login-page>/ingresa.jsp</form-login-page>
+            <form-error-page>/ingresa.jsp?loginError=true</form-error-page>
+            <form-default-page>/LogInServlet</form-default-page>
+        </form-login-config>
+    </login-config>
+
+    <realm className="securityFilter.DocnetRealm"></realm>
+
+</securityfilter-config>

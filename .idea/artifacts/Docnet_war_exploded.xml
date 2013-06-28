@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Docnet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Docnet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Docnet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Docnet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/src/lib/jstl.jar" />
+          <element id="library" level="project" name="Hibernate" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/lib/javax.persistence.jar" />
+          <element id="dir-copy" path="$PROJECT_DIR$/src/lib" />
+          <element id="dir-copy" path="$PROJECT_DIR$/src/lib/securityFilter" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
