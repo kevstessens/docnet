@@ -1,7 +1,9 @@
 package dao;
 
 import hibernate.HibernateUtil;
-import model.*;
+import model.Doctor;
+import model.Paciente;
+import model.Turno;
 import org.hibernate.Session;
 
 import java.util.ArrayList;
@@ -53,12 +55,12 @@ public class PacienteDAO extends BaseDAO {
             persist(p);
         }
     }
-    public static void deleteTurno(String email_paciente, Turno turno) {
+    public static void deleteTurno(String paciente, Turno turno) {
         List<Paciente> pacientes = new ArrayList<Paciente>();
         session = HibernateUtil.getSessionFactory().openSession();
         Paciente p = new Paciente();
         try {
-            String query = "from Paciente where email = '"+ email_paciente +"'";
+            String query = "from Paciente where email = '"+ paciente +"'";
             pacientes = session.createQuery(query).list();
             p = pacientes.get(0);
             List<Turno> t = p.getTurnos();
@@ -69,27 +71,6 @@ public class PacienteDAO extends BaseDAO {
                 }
             }
             p.setTurnos(t);
-        } finally {
-            persist(p);
-        }
-    }
-    public static void addHistoriaClinica(String email_paciente, String especificacion) {
-        List<Paciente> pacientes = new ArrayList<Paciente>();
-        session = HibernateUtil.getSessionFactory().openSession();
-        Paciente p = new Paciente();
-        try {
-            String query = "from Paciente where email = '"+ email_paciente +"'";
-            pacientes = session.createQuery(query).list();
-            p = pacientes.get(0);
-            List<HistoriaClinica> hcList = p.getHistoriasClinicas();
-            HistoriaClinica hc = new HistoriaClinica();
-            hc.setEspecificacion(especificacion);
-            String nombrePaciente = p.getNombre()+" "+p.getApellido();
-            hc.setNombrePaciente(nombrePaciente);
-            hc.setHistorial(new ArrayList<Consulta>());
-            BaseDAO.persist(hc);
-            hcList.add(hc);
-            p.setHistoriasClinicas(hcList);
         } finally {
             persist(p);
         }

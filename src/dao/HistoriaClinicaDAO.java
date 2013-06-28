@@ -16,23 +16,16 @@ import java.util.List;
  * To change this template use File | Settings | File Templates.
  */
 public class HistoriaClinicaDAO extends BaseDAO {
-    public static HistoriaClinica getHCPorEyP(String especificacion, String nombre_paciente, String email_paciente) {
+    public static HistoriaClinica getHCPorEyP(String especificacion, String nombre_paciente) {
         List<HistoriaClinica> hcList = new ArrayList<HistoriaClinica>();
         Session session = HibernateUtil.getSessionFactory().openSession();
         try {
-            String query = "from HistoriaClinica where nombrePaciente = '" + nombre_paciente + "' and especificacion = '"+ especificacion +"'";
+            String query = "from HistoriaClinica where nombrePaciente = " + nombre_paciente + "' and especificacion = "+ especificacion +"'";
             hcList = session.createQuery(query).list();
-        } catch(Exception e) {
-            e.printStackTrace();
         } finally {
             session.close();
         }
-        if(hcList.size()==0) {
-            PacienteDAO.addHistoriaClinica(email_paciente, especificacion);
-            return getHCPorEyP(especificacion, nombre_paciente, email_paciente);
-        } else {
-            return hcList.get(0);
-        }
+        return hcList.get(0);
     }
     public static List<HistoriaClinica> getHCPorPaciente(String DNI_paciente) {
         List<HistoriaClinica> hcList = new ArrayList<HistoriaClinica>();

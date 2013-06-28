@@ -18,9 +18,126 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb5f98e5-aa0f-4509-9c05-8c2b5ebbf0d7" name="Default" comment="" />
+    <list default="true" id="fb5f98e5-aa0f-4509-9c05-8c2b5ebbf0d7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/dao.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/model.rar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/antlr-2.7.6.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/antlr-2.7.6.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/antlr-2.7.7.jar" afterPath="$PROJECT_DIR$/src/lib/required/antlr-2.7.7.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/c3p0/c3p0-0.9.1.jar" afterPath="$PROJECT_DIR$/src/lib/optional/c3p0/c3p0-0.9.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/commons-beanutils.jar" afterPath="$PROJECT_DIR$/src/lib/securityFilter/commons-beanutils.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/commons-codec.jar" afterPath="$PROJECT_DIR$/src/lib/securityFilter/commons-codec.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/commons-collections-3.1.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/commons-collections-3.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/commons-collections.jar" afterPath="$PROJECT_DIR$/src/lib/securityFilter/commons-collections.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/commons-digester.jar" afterPath="$PROJECT_DIR$/src/lib/securityFilter/commons-digester.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/commons-fileupload-1.2.1.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/commons-fileupload-1.2.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/commons-io-1.2.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/commons-io-1.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/commons-logging.jar" afterPath="$PROJECT_DIR$/src/lib/securityFilter/commons-logging.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/dom4j-1.6.1.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/dom4j-1.6.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/dom4j-1.6.1.jar" afterPath="$PROJECT_DIR$/src/lib/required/dom4j-1.6.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/ehcache/ehcache-core-2.4.3.jar" afterPath="$PROJECT_DIR$/src/lib/optional/ehcache/ehcache-core-2.4.3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/c3p0/hibernate-c3p0-4.1.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/optional/c3p0/hibernate-c3p0-4.1.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/hibernate-commons-annotations-4.0.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/required/hibernate-commons-annotations-4.0.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/hibernate-core-4.1.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/required/hibernate-core-4.1.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/ehcache/hibernate-ehcache-4.1.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/optional/ehcache/hibernate-ehcache-4.1.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate-entitymanager-4.1.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate-entitymanager-4.1.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/jpa/hibernate-entitymanager-4.1.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/jpa/hibernate-entitymanager-4.1.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/hibernate-infinispan-4.1.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/hibernate-infinispan-4.1.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/required/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/proxool/hibernate-proxool-4.1.1.Final.jar" afterPath="$PROJECT_DIR$/src/lib/optional/proxool/hibernate-proxool-4.1.1.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/hibernate3.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/hibernate3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hsql/hsqldb.jar" afterPath="$PROJECT_DIR$/src/lib/hsql/hsqldb.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/infinispan-core-5.1.2.CR1.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/infinispan-core-5.1.2.CR1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/jakarta-oro.jar" afterPath="$PROJECT_DIR$/src/lib/securityFilter/jakarta-oro.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/javassist-3.15.0-GA.jar" afterPath="$PROJECT_DIR$/src/lib/required/javassist-3.15.0-GA.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/javassist-3.9.0.GA.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/javassist-3.9.0.GA.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.annotation.jar" afterPath="$PROJECT_DIR$/src/lib/javax.annotation.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.ejb.jar" afterPath="$PROJECT_DIR$/src/lib/javax.ejb.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.jms.jar" afterPath="$PROJECT_DIR$/src/lib/javax.jms.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.persistence.jar" afterPath="$PROJECT_DIR$/src/lib/javax.persistence.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.resource.jar" afterPath="$PROJECT_DIR$/src/lib/javax.resource.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.servlet.jar" afterPath="$PROJECT_DIR$/src/lib/javax.servlet.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.servlet.jsp.jar" afterPath="$PROJECT_DIR$/src/lib/javax.servlet.jsp.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.servlet.jsp.jstl.jar" afterPath="$PROJECT_DIR$/src/lib/javax.servlet.jsp.jstl.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/javax.transaction.jar" afterPath="$PROJECT_DIR$/src/lib/javax.transaction.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/jboss-logging-3.1.0.GA.jar" afterPath="$PROJECT_DIR$/src/lib/required/jboss-logging-3.1.0.GA.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/jboss-marshalling-1.3.6.GA.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/jboss-marshalling-1.3.6.GA.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/jboss-marshalling-river-1.3.6.GA.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/jboss-marshalling-river-1.3.6.GA.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/required/jboss-transaction-api_1.1_spec-1.0.0.Final.jar" afterPath="$PROJECT_DIR$/src/lib/required/jboss-transaction-api_1.1_spec-1.0.0.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/jgroups-3.0.6.Final.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/jgroups-3.0.6.Final.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/jstl.jar" afterPath="$PROJECT_DIR$/src/lib/jstl.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/jta-1.1.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/jta-1.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/log4j-1.2.15.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/log4j-1.2.15.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/proxool/proxool-0.8.3.jar" afterPath="$PROJECT_DIR$/src/lib/optional/proxool/proxool-0.8.3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/rhq-pluginAnnotations-3.0.4.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/rhq-pluginAnnotations-3.0.4.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/securityfilter-src.zip" afterPath="$PROJECT_DIR$/src/lib/securityFilter/securityfilter-src.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/securityFilter/securityfilter.jar" afterPath="$PROJECT_DIR$/src/lib/securityFilter/securityfilter.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hsql/servlet.jar" afterPath="$PROJECT_DIR$/src/lib/hsql/servlet.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/slf4j-api-1.5.8.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/slf4j-api-1.5.8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/slf4j-jdk14-1.5.2.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/slf4j-jdk14-1.5.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/slf4j-log4j12-1.5.11.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/slf4j-log4j12-1.5.11.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hibernate/slf4j-simple-1.6.1.jar" afterPath="$PROJECT_DIR$/src/lib/hibernate/slf4j-simple-1.6.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hsql/slf4j-simple-1.6.4.jar" afterPath="$PROJECT_DIR$/src/lib/hsql/slf4j-simple-1.6.4.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/hsql/sqltool.jar" afterPath="$PROJECT_DIR$/src/lib/hsql/sqltool.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/standard.jar" afterPath="$PROJECT_DIR$/src/lib/standard.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/stax2-api-3.1.1.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/stax2-api-3.1.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/optional/infinispan/woodstox-core-asl-4.1.1.jar" afterPath="$PROJECT_DIR$/src/lib/optional/infinispan/woodstox-core-asl-4.1.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/AddDoctorServlet.java" afterPath="$PROJECT_DIR$/src/servlets/AddDoctorServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/BaseDAO.java" afterPath="$PROJECT_DIR$/src/dao/BaseDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/BuscarTurnosServlet.java" afterPath="$PROJECT_DIR$/src/servlets/BuscarTurnosServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/CalendarServlet.java" afterPath="$PROJECT_DIR$/src/servlets/CalendarServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/CancelarTurnosServlet.java" afterPath="$PROJECT_DIR$/src/servlets/CancelarTurnosServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/CerrarTurnoServlet.java" afterPath="$PROJECT_DIR$/src/servlets/CerrarTurnoServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Consulta.java" afterPath="$PROJECT_DIR$/src/model/Consulta.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hibernate/DataBaseCreator.java" afterPath="$PROJECT_DIR$/src/hibernate/DataBaseCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Direccion.java" afterPath="$PROJECT_DIR$/src/model/Direccion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/DireccionDAO.java" afterPath="$PROJECT_DIR$/src/dao/DireccionDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Docnet.iml" afterPath="$PROJECT_DIR$/Docnet.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/securityFilter/DocnetRealm.java" afterPath="$PROJECT_DIR$/src/securityFilter/DocnetRealm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Docnet_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Docnet_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Doctor.java" afterPath="$PROJECT_DIR$/src/model/Doctor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/DoctorDAO.java" afterPath="$PROJECT_DIR$/src/dao/DoctorDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/EliminarServlet.java" afterPath="$PROJECT_DIR$/src/servlets/EliminarServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Especificacion.java" afterPath="$PROJECT_DIR$/src/model/Especificacion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/EspecificacionDAO.java" afterPath="$PROJECT_DIR$/src/dao/EspecificacionDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hibernate/HibernateUtil.java" afterPath="$PROJECT_DIR$/src/hibernate/HibernateUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/HistoriaClinica.java" afterPath="$PROJECT_DIR$/src/model/HistoriaClinica.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/HistoriaClinicaDAO.java" afterPath="$PROJECT_DIR$/src/dao/HistoriaClinicaDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/HorariosDeAtencion.java" afterPath="$PROJECT_DIR$/src/model/HorariosDeAtencion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/HorariosDeAtencionDAO.java" afterPath="$PROJECT_DIR$/src/dao/HorariosDeAtencionDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Hospital.java" afterPath="$PROJECT_DIR$/src/model/Hospital.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/HospitalDAO.java" afterPath="$PROJECT_DIR$/src/dao/HospitalDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/LogInServlet.java" afterPath="$PROJECT_DIR$/src/servlets/LogInServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/ModificarServlet.java" afterPath="$PROJECT_DIR$/src/servlets/ModificarServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/ObraSocial.java" afterPath="$PROJECT_DIR$/src/model/ObraSocial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/ObraSocialDAO.java" afterPath="$PROJECT_DIR$/src/dao/ObraSocialDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Paciente.java" afterPath="$PROJECT_DIR$/src/model/Paciente.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/PacienteDAO.java" afterPath="$PROJECT_DIR$/src/dao/PacienteDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/RegisterServlet.java" afterPath="$PROJECT_DIR$/src/servlets/RegisterServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/SacarTurnoServlet.java" afterPath="$PROJECT_DIR$/src/servlets/SacarTurnoServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hibernate/Test.java" afterPath="$PROJECT_DIR$/src/hibernate/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Tomi.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Tomi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Turno.java" afterPath="$PROJECT_DIR$/src/model/Turno.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/TurnoDAO.java" afterPath="$PROJECT_DIR$/src/dao/TurnoDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/servlets/UserServlet.java" afterPath="$PROJECT_DIR$/src/servlets/UserServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/Usuario.java" afterPath="$PROJECT_DIR$/src/model/Usuario.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dao/UsuarioDAO.java" afterPath="$PROJECT_DIR$/src/dao/UsuarioDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Docnet.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="fb5f98e5-aa0f-4509-9c05-8c2b5ebbf0d7" time="1372462339619" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,41 +147,12 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-    <option name="REVERSE_PATCH" value="false" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/servlets/EliminarServlet.java" line="22" class="servlets.EliminarServlet" package="servlets">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/web/cerrarTurno.jsp" line="78" class="cerrarTurno.jsp" package="K:\Fuck U\Laboratorio 1\Docnet\web">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
-    <breakpoint_any>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -72,6 +160,7 @@
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
         <option name="COUNT_FILTER" value="0" />
         <option name="CONDITION_ENABLED" value="false" />
@@ -87,6 +176,7 @@
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
         <option name="COUNT_FILTER" value="0" />
         <option name="CONDITION_ENABLED" value="false" />
@@ -96,104 +186,74 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/servlets/EliminarServlet.java" line="22" class="servlets.EliminarServlet" package="servlets">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/servlets/CerrarTurnoServlet.java" line="25" class="servlets.CerrarTurnoServlet" package="servlets">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/web/verTurnos.jsp" line="100" class="verTurnos.jsp" package="$PROJECT_DIR$/web">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/securityFilter/DocnetRealm.java" line="13" class="securityFilter.DocnetRealm" package="securityFilter">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
-    <ui_properties>
-      <property name="line_breakpoints_groupByMethods" value="false" />
-      <property name="line_breakpoints_viewId" value="TABLE" />
-      <property name="exception_breakpoints_flattenPackages" value="true" />
-      <property name="method_breakpoints_flattenPackages" value="true" />
-      <property name="field_breakpoints_flattenPackages" value="true" />
-      <property name="exception_breakpoints_groupByMethods" value="false" />
-      <property name="line_breakpoints_groupByClasses" value="true" />
-      <property name="method_breakpoints_viewId" value="TABLE" />
-      <property name="field_breakpoints_groupByMethods" value="false" />
-      <property name="line_breakpoints_flattenPackages" value="true" />
-      <property name="field_breakpoints_groupByClasses" value="true" />
-      <property name="method_breakpoints_groupByClasses" value="true" />
-      <property name="exception_breakpoints_viewId" value="TABLE" />
-      <property name="exception_breakpoints_groupByClasses" value="true" />
-      <property name="field_breakpoints_viewId" value="TABLE" />
-      <property name="method_breakpoints_groupByMethods" value="false" />
-    </ui_properties>
+    <ui_properties />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Docnet" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cerrarTurno.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/cerrarTurno.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="158" column="56" selection-start="6484" selection-end="6484" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="148" column="12" selection-start="5574" selection-end="5574" vertical-scroll-proportion="0.63765544">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HistoriaClinicaDAO.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dao/HistoriaClinicaDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PacienteDAO.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dao/PacienteDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="0" selection-start="3709" selection-end="3709" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HistoriaClinica.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/HistoriaClinica.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="39" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataBaseCreator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hibernate/DataBaseCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="27" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cal.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/cal.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="36" selection-start="5536" selection-end="5536" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CerrarTurnoServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/servlets/CerrarTurnoServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -201,13 +261,21 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
-    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/servlets/CancelarTurnosServlet.java" />
+        <option value="$PROJECT_DIR$/web/doctor.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/dao/TurnoDAO.java" />
+        <option value="$PROJECT_DIR$/web/cal.jsp" />
         <option value="$PROJECT_DIR$/web/verTurnos.jsp" />
         <option value="$PROJECT_DIR$/src/model/Consulta.java" />
         <option value="$PROJECT_DIR$/src/model/Paciente.java" />
@@ -215,13 +283,9 @@
         <option value="$PROJECT_DIR$/src/servlets/BuscarTurnosServlet.java" />
         <option value="$PROJECT_DIR$/src/servlets/CalendarServlet.java" />
         <option value="$PROJECT_DIR$/src/servlets/SacarTurnoServlet.java" />
-        <option value="$PROJECT_DIR$/src/dao/EspecificacionDAO.java" />
-        <option value="$PROJECT_DIR$/web/cal.jsp" />
-        <option value="$PROJECT_DIR$/src/servlets/CerrarTurnoServlet.java" />
-        <option value="$PROJECT_DIR$/src/hibernate/DataBaseCreator.java" />
-        <option value="$PROJECT_DIR$/src/dao/PacienteDAO.java" />
-        <option value="$PROJECT_DIR$/src/dao/HistoriaClinicaDAO.java" />
         <option value="$PROJECT_DIR$/src/model/HistoriaClinica.java" />
+        <option value="$PROJECT_DIR$/src/dao/HistoriaClinicaDAO.java" />
+        <option value="$PROJECT_DIR$/src/servlets/CerrarTurnoServlet.java" />
         <option value="$PROJECT_DIR$/web/cerrarTurno.jsp" />
       </list>
     </option>
@@ -243,6 +307,11 @@
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -259,7 +328,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -287,109 +356,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Docnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -405,16 +371,37 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Docnet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Docnet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docnet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.plugin.settings.project.settings.cfml" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -437,9 +424,9 @@
       <recent name="C:\Users\Tomi\Facultad\Docnet\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.cal.jsp">
-    <configuration default="false" name="weekcalendar_demo_2.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/calendar/weekcalendar_demo_2.html" />
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7">
+    <configuration default="false" name="cal.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/cal.jsp" />
       <deployment>
         <artifact name="Docnet:war exploded">
           <settings>
@@ -448,11 +435,10 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="DEPLOY_TOMCAT_APPS" value="false" />
         <option name="BASE_DIRECTORY_NAME" value="_Docnet" />
       </server-settings>
       <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" />
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="49477" />
         <option name="TRANSPORT" value="0" />
@@ -495,8 +481,8 @@
         </option>
       </method>
     </configuration>
-    <configuration default="false" name="cal.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/cal.jsp" />
+    <configuration default="false" name="buscarTurnos.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/buscarTurnos.jsp" />
       <deployment>
         <artifact name="Docnet:war exploded">
           <settings>
@@ -505,11 +491,66 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="DEPLOY_TOMCAT_APPS" value="false" />
         <option name="BASE_DIRECTORY_NAME" value="_Docnet" />
       </server-settings>
       <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" />
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49477" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Docnet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="admin.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/admin.jsp" />
+      <deployment>
+        <artifact name="Docnet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Docnet" />
+      </server-settings>
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="49477" />
         <option name="TRANSPORT" value="0" />
@@ -553,7 +594,7 @@
       </method>
     </configuration>
     <configuration default="false" name="DataBaseCreator" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="hibernate.*" />
           <option name="ENABLED" value="true" />
@@ -574,65 +615,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="buscarTurnos.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/buscarTurnos.jsp" />
-      <deployment>
-        <artifact name="Docnet:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="DEPLOY_TOMCAT_APPS" value="false" />
-        <option name="BASE_DIRECTORY_NAME" value="_Docnet" />
-      </server-settings>
-      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49477" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="Docnet:war exploded" />
-        </option>
-      </method>
-    </configuration>
     <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="hibernate.*" />
           <option name="ENABLED" value="true" />
@@ -659,35 +643,26 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" adl_options="" air_descriptor_path="" air_program_params="" air_publisher_id="" air_root_dir_path="" air_run_mode="AppDescriptor" browser_family="FIREFOX" class_name="" debugger_sdk="Module SDK" html_or_swf_file_path="" launcher_type="OSDefault" main_class_name="" method_name="" module_name="" output_log_level="" package_name="" player_path="FlashPlayer.exe" port="0" run_mode="HtmlOrSwfFile" run_trusted="false" scope="Class" socket_policy_port="0" url_to_launch="http://">
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
@@ -700,16 +675,10 @@
       <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" />
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -721,52 +690,24 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="FtpUpload" enabled="false">
-          <server_id />
-          <server_name />
-        </option>
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" />
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -784,22 +725,15 @@
       </option>
       <envs />
       <patterns />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
       <deployment />
       <server-settings>
-        <option name="DEPLOY_TOMCAT_APPS" value="false" />
         <option name="BASE_DIRECTORY_NAME" value="_Docnet" />
       </server-settings>
       <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" />
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="49477" />
         <option name="TRANSPORT" value="0" />
@@ -836,19 +770,15 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote">
       <option name="LOCAL" value="false" />
+      <deployment />
       <server-settings>
-        <option name="DEPLOY_TOMCAT_APPS" value="false" />
-        <option name="BASE_DIRECTORY_NAME" value="_Docnet_2" />
+        <data>
+          <option name="transportHostId" />
+        </data>
       </server-settings>
       <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
       <extension name="coverage" />
@@ -860,13 +790,7 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="false" name="Tomcat 7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/docnet/index.jsp" />
@@ -879,17 +803,52 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="DEPLOY_TOMCAT_APPS" value="false" />
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_Docnet" />
       </server-settings>
       <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52284" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="49477" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -927,20 +886,25 @@
       </method>
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.weekcalendar_demo_2.html" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.cal.jsp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DataBaseCreator" />
-      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.buscarTurnos.jsp" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="5" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.buscarTurnos.jsp" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.admin.jsp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DataBaseCreator" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Test" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.DataBaseCreator" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -955,7 +919,8 @@
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
-    <configuration useDefault="true">C:\Users\Kevin\AppData\Roaming\Subversion</configuration>
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\Tomi\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -987,33 +952,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33054712" sideWeight="0.21489002" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.67343485" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.74111676" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5296108" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48054147" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50132626" sideWeight="0.6671449" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3248731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25729442" sideWeight="0.49713057" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17325228" sideWeight="0.21489002" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3248731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33054712" sideWeight="0.36548224" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.27918783" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22492401" sideWeight="0.5686275" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43137255" sideWeight="0.0" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26685795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5" sideWeight="0.32783356" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.67343485" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42301184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25816995" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
@@ -1034,12 +1007,22 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -1108,95 +1091,84 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/src/lib/required/hibernate-core-4.1.1.Final.jar!/org/hibernate/internal/SessionImpl.class">
+    <entry file="jar://$PROJECT_DIR$/src/lib/securityFilter/commons-digester.jar!/org/apache/commons/digester/Rule.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="31" selection-start="4003" selection-end="4003" vertical-scroll-proportion="0.3705357" />
+        <state line="29" column="16" selection-start="993" selection-end="993" vertical-scroll-proportion="-3.32" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/DoctorDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/servlets/SacarTurnoServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="116" selection-start="1824" selection-end="1824" vertical-scroll-proportion="-4.048485" />
+        <state line="43" column="43" selection-start="1608" selection-end="1608" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/HorariosDeAtencion.java">
+    <entry file="jar://$PROJECT_DIR$/src/lib/securityFilter/commons-digester.jar!/org/apache/commons/digester/Digester.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="216" selection-end="216" vertical-scroll-proportion="0.18367347" />
+        <state line="187" column="28" selection-start="8898" selection-end="8898" vertical-scroll-proportion="-2.96" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/buscarTurnos.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="53" selection-start="5092" selection-end="5092" vertical-scroll-proportion="-13.076923" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/securityFilter/securityfilter.jar!/org/securityfilter/config/SecurityConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="16" selection-start="2612" selection-end="2612" vertical-scroll-proportion="-3.84" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/securityFilter/securityfilter.jar!/org/securityfilter/filter/SecurityFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="16" selection-start="2222" selection-end="2222" vertical-scroll-proportion="-3.32" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/securityFilter/commons-digester.jar!/org/apache/commons/digester/ObjectCreateRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="16" selection-start="1450" selection-end="1450" vertical-scroll-proportion="-2.96" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/LogInServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="33" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Doctor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="382" selection-end="382" vertical-scroll-proportion="-0.12612613" />
+        <state line="17" column="13" selection-start="382" selection-end="382" vertical-scroll-proportion="0.12851405" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Usuario.java">
+    <entry file="file://$PROJECT_DIR$/src/model/Hospital.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="304" selection-end="304" vertical-scroll-proportion="-1.2747748" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Turno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="239" selection-end="239" vertical-scroll-proportion="-0.12612613" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Paciente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="14" selection-start="446" selection-end="471" vertical-scroll-proportion="0.3918919" />
+        <state line="13" column="13" selection-start="239" selection-end="239" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Consulta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="261" selection-end="261" vertical-scroll-proportion="-0.0990991" />
+        <state line="15" column="26" selection-start="279" selection-end="279" vertical-scroll-proportion="0.1861702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/CancelarTurnosServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1400" selection-end="1400" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/UsuarioDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1176" selection-end="1205" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/securityFilter/DocnetRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="277" selection-end="277" vertical-scroll-proportion="0.33156028" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/cerrarTurno.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="56" selection-start="6484" selection-end="6484" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/HistoriaClinicaDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/PacienteDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="0" selection-start="3709" selection-end="3709" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/HistoriaClinica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="39" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hibernate/DataBaseCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="27" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/cal.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="36" selection-start="5536" selection-end="5536" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlets/CerrarTurnoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="148" column="12" selection-start="5574" selection-end="5574" vertical-scroll-proportion="0.63765544">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
+        <state line="89" column="65" selection-start="3584" selection-end="3584" vertical-scroll-proportion="0.71428573" />
       </provider>
     </entry>
   </component>
@@ -1218,7 +1190,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Android</last-edited>
+          <last-edited>Hibernate</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

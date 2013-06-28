@@ -1,6 +1,9 @@
 package model;
 
 import javax.persistence.*;
+import javax.persistence.metamodel.ListAttribute;
+import java.io.File;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -16,18 +19,18 @@ public class HistoriaClinica {
     @GeneratedValue
     private long id;
     @Column
-    private String especificacion;
-    @OneToMany(fetch = FetchType.EAGER)
+    private String especializacion;
+    @OneToMany
     private List<Consulta> historial;
     @Column
     private String nombrePaciente;
     public HistoriaClinica(){
     }
-    public String getEspecificacion() {
-        return especificacion;
+    public String getEspecializacion() {
+        return especializacion;
     }
-    public void setEspecificacion(String especificacion) {
-        this.especificacion = especificacion;
+    public void setEspecializacion(String especializacion) {
+        this.especializacion = especializacion;
     }
     public List<Consulta> getHistorial() {
         return historial;

@@ -26,18 +26,6 @@ public class EspecificacionDAO extends BaseDAO {
             return esList.get(0);
         }
     }
-    public static Especificacion getEspecificacionPorDoctor(String DNI_doctor) {
-        List<Especificacion> esList = new ArrayList<Especificacion>();
-        session = HibernateUtil.getSessionFactory().openSession();
-        Especificacion e = new Especificacion();
-        try {
-            String query = "Select e from Especificacion as e inner join e.doctores as d where d.DNI = '"+ DNI_doctor +"'";
-            esList = session.createQuery(query).list();
-            e = esList.get(0);
-        } finally {
-            return e;
-        }
-    }
     public static void addDoctor(String nombre, Doctor doctor) {
         List<Especificacion> especificacion = new ArrayList<Especificacion>();
         session = HibernateUtil.getSessionFactory().openSession();

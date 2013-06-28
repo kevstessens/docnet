@@ -29,7 +29,6 @@ public class CerrarTurnoServlet extends HttpServlet {
         Date date = new Date(Long.valueOf(d));
         String dateString = date.toString();
         Turno turno = TurnoDAO.getTurnoPorFechaText(dateString);
-        session.setAttribute("turno", turno);
         if(turno.getNombrePaciente()!=null) {
             Paciente paciente = PacienteDAO.getPacientePorTurno(turno.getDateString(), turno.getNombrePaciente());
             session.setAttribute("paciente", paciente);

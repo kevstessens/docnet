@@ -1,7 +1,13 @@
 package servlets;
 
-import dao.*;
-import model.*;
+import dao.DoctorDAO;
+import dao.PacienteDAO;
+import dao.TurnoDAO;
+import dao.UsuarioDAO;
+import model.Doctor;
+import model.Paciente;
+import model.Turno;
+import model.Usuario;
 
 import javax.jms.Session;
 import javax.servlet.ServletException;
@@ -33,8 +39,7 @@ public class SacarTurnoServlet extends HttpServlet {
             Paciente paciente = (Paciente)UsuarioDAO.getUsuarioPorEmail(request.getRemoteUser());
             Turno turno = new Turno();
             turno.setDate(date);
-            Especificacion e = EspecificacionDAO.getEspecificacionPorDoctor(doctor.getDNI());
-            String especificacion = e.getNombre();
+            String especificacion = (String)session.getAttribute("especificacion");
             turno.setEspecializacion(especificacion);
             String nombreDoctor = doctor.getNombre()+" "+doctor.getApellido();
             turno.setNombreDoctor(nombreDoctor);

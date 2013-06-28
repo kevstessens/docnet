@@ -45,8 +45,7 @@ public class DataBaseCreator {
         user2.setPassword("tomas123");
         user2.setEmail("tomas@docnet.com");
         Paciente carlos = new Paciente();
-        carlos.setNombre("Charly");
-        carlos.setApellido("Null");
+        carlos.setNombre("charly");
         carlos.setEmail("carlos@docnet.com");
         carlos.setPassword("123456");
         UsuarioDAO.persistOutOfSession(user);
